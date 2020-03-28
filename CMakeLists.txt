@@ -10,3 +10,6 @@ add_executable(Hanoi Hanoi/Hanoi.cpp)
 
 add_executable(TriangleRecursion TriangleDP/recursion.cpp)
 add_executable(TriangleDP TriangleDP/dp.cpp)
+
+# DFS
+add_executable(PathPlanning DFS/pathplanning.cpp)
